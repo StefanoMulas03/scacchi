@@ -1,0 +1,11 @@
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\bin\Release\StefanoMulas_Progetto_scacchi.exe.config
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\bin\Release\StefanoMulas_Progetto_scacchi.exe
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\bin\Release\StefanoMulas_Progetto_scacchi.pdb
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.csproj.AssemblyReference.cache
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.Form1.resources
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.Properties.Resources.resources
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.Splash.resources
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.csproj.GenerateResource.cache
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.exe
+C:\Users\Stefano\Desktop\StefanoMulas_Progetto_scacchi\obj\Release\StefanoMulas_Progetto_scacchi.pdb
